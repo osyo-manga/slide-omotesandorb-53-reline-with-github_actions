@@ -124,7 +124,7 @@ puts eval(expr)
 - - -
 
 * Ruby 2.7 で GNU Readline 依存がなくなる            <!-- .element: class="fragment" -->
-* Ruby 2.7            <!-- .element: class="fragment" --> で irb めっちゃ便利になる
+* Ruby 2.7 で irb めっちゃ便利になる           <!-- .element: class="fragment" --> 
 * GitHub Actions めっちゃ便利なのでみんなも使おう！            <!-- .element: class="fragment" -->
 
 ---
